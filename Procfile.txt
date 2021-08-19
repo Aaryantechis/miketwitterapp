@@ -1,1 +1,1 @@
-web: gunicorn TwitterClone.wsgi
+web: gunicorn twitter_clone.wsgi --log-file -
